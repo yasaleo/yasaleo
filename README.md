@@ -2,7 +2,7 @@
 - 👀 I’m interested in Dart,Flutter,Google
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me twitter: @yasaleo ,Email:yadhusanil26@gmail.com
+- 📫 How to reach me twitter: https://twitter.com/yasaleo?t=lwbkmMqqOHGqAtutKXZsUg&s=08 ,Email:yadhusanil26@gmail.com
 
 <!---
 yasaleo/yasaleo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
