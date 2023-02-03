@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 <h1 align="center">Hi 👋, I'm YADHU S</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
-<img align="centre" alt=Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img align="Centre" alt=Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasaleo&label=Profile%20views&color=0e75b6&style=flat" alt="yasaleo" /> </p>
 
